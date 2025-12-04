@@ -10,6 +10,8 @@ The GGUF model is **not included** because of file size limits.
 
 Download it from HuggingFace and place it inside:
 model/
+
+and install 
 pip install -r requirements.txt
 
 
