@@ -1,0 +1,14 @@
+langchain
+langchain-community
+langchain-core
+faiss-cpu
+sentence-transformers
+llama-cpp-python
+watchdog
+python-dotenv
+tqdm
+numpy
+pandas
+rich
+pyyaml
+PyPDF2
