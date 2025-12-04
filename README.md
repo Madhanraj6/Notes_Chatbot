@@ -41,6 +41,8 @@ python watch_notes.py
 
 ## 🎥 Demo Video
 Add your video link here:
+<video src="https://github.com/user-attachments/assets/5ce42cbb-8cfc-4c51-9bac-c06c0df087c1" controls width="600"></video>
+
 
  ```
 
